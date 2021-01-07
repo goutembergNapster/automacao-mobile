@@ -1,4 +1,4 @@
-Cucumber com Ruby - QAZANDO
+Cucumber com Ruby
 ================================
 
 Este projeto foi criado com a finalidade de criar um framework que realiza testes para IOS e ANDROID utilizando somente a busca pelos elementos separadamente.
