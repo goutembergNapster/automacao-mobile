@@ -1,0 +1,13 @@
+
+[caps]
+platformName = "Android"
+deviceName = "R38M6092GWB"
+app = "/Users/goutembergpessoa/development/caixa-rapido/platforms/android/build/outputs/apk/android-debug.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+appPackage = "br.com.linx.bigretail.CaixaRapido"
+appActivity = "br.com.linx.bigretail.CaixaRapido.MainActivity" 
+noReset = true
+[appium_lib]
+wait = 20
+debug = false
